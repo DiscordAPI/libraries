@@ -1,10 +1,10 @@
 {
     "features": {
         "rest": {
-            "channelCreate": "partial WIP",
-            "channelDelete": "partial WIP",
+            "channelCreate": "WIP",
+            "channelDelete": "WIP",
             "channelDM": "yes",
-            "channelEdit": "partial WIP",
+            "channelEdit": "WIP",
             "channelHistory": "yes",
             "channelInfo": "yes",
             "channelPermission": "no",
@@ -16,6 +16,7 @@
             "messageDelete": "yes",
             "messageEdit": "yes",
             "messageSend": "yes",
+            "messageSendFile": "yes",
             "roleCreate": "no",
             "roleDelete": "no",
             "roleEdit": "no",
