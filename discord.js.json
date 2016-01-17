@@ -13,7 +13,7 @@
             "inviteDelete": "yes",
             "inviteInfo": "no",
             "inviteJoin": "yes",
-            "messageDelete": "no",
+            "messageDelete": "yes",
             "messageEdit": "yes",
             "messageSend": "yes",
             "messageSendFile": "yes",
