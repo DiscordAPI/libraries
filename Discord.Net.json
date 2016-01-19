@@ -51,7 +51,7 @@
             "userLeave": "yes",
             "userUpdate": "yes",
             "voiceReceive": "WIP",
-            "voiceSendMulti": "WIP",
+            "voiceSendMulti": "yes",
             "voiceSendSingle": "yes",
             "voiceStateUpdate": "yes"
         }
