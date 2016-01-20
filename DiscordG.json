@@ -7,7 +7,7 @@
             "channelEdit": "yes",
             "channelHistory": "yes",
             "channelInfo": "yes",
-            "channelPermission": "no",
+            "channelPermission": "yes",
             "editProfile": "yes",
             "inviteCreate": "yes",
             "inviteDelete": "yes",
