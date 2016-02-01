@@ -6,7 +6,7 @@
             "channelDM": "no",
             "channelEdit": "yes",
             "channelHistory": "yes",
-            "channelInfo": "",
+            "channelInfo": "yes",
             "channelPermission": "yes",
             "editProfile": "yes",
             "inviteCreate": "yes",
