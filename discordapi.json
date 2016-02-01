@@ -41,7 +41,7 @@
             "messageUpdate": "callback only",
             "roleCreate": "yes",
             "roleDelete": "yes",
-            "roleEdit": "yes",
+            "roleUpdate": "yes",
             "presenceReceive": "yes",
             "presenceSend": "no",
             "serverBan": "partial",
@@ -52,10 +52,8 @@
             "typing": "yes",
             "userJoin": "yes",
             "userLeave": "yes",
-            "userUpdate": "yes",
             "voiceReceive": "no",
-            "voiceSendMulti": "no",
-            "voiceSendSingle": "no",
+            "voiceSend": "no",
             "voiceStateUpdate": "no"
         }
     },

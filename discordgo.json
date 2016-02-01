@@ -39,6 +39,9 @@
             "messageDelete": "yes",
             "messageReceive": "yes",
             "messageUpdate": "yes",
+            "roleCreate": "no",
+            "roleDelete": "no",
+            "roleUpdate": "no",
             "presenceReceive": "yes",
             "presenceSend": "yes",
             "serverBan": "yes",
@@ -49,10 +52,8 @@
             "typing": "yes",
             "userJoin": "yes",
             "userLeave": "yes",
-            "userUpdate": "yes",
             "voiceReceive": "yes",
-            "voiceSendMulti": "WIP",
-            "voiceSendSingle": "yes",
+            "voiceSend": "yes",
             "voiceStateUpdate": "yes"
         }
     },

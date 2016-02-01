@@ -11,7 +11,7 @@
             "editProfile": "yes",
             "inviteCreate": "yes",
             "inviteDelete": "yes",
-            "inviteInfo": "no",
+            "inviteInfo": "yes",
             "inviteJoin": "yes",
             "messageDelete": "yes",
             "messageEdit": "yes",
@@ -30,7 +30,7 @@
             "serverInfo": "yes",
             "serverKick": "yes",
             "serverUnban": "yes",
-            "voiceMove": "no"
+            "voiceMove": "yes"
         },
         "ws": {
             "channelCreate": "yes",
@@ -39,6 +39,9 @@
             "messageDelete": "yes",
             "messageReceive": "yes",
             "messageUpdate": "yes",
+            "roleCreate": "yes",
+            "roleDelete": "yes",
+            "roleUpdate": "yes",
             "presenceReceive": "yes",
             "presenceSend": "yes",
             "serverBan": "yes",
@@ -49,11 +52,9 @@
             "typing": "yes",
             "userJoin": "yes",
             "userLeave": "yes",
-            "userUpdate": "yes",
             "voiceReceive": "no",
-            "voiceSendMulti": "no",
-            "voiceSendSingle": "yes",
-            "voiceStateUpdate": "no"
+            "voiceSend": "yes",
+            "voiceStateUpdate": "yes"
         }
     },
     "name": "discord.js",
