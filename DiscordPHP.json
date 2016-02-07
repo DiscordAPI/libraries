@@ -52,9 +52,9 @@
             "typing": "yes",
             "userJoin": "yes",
             "userLeave": "yes",
-            "voiceReceive": "no",
-            "voiceSend": "no",
-            "voiceStateUpdate": "no"
+            "voiceReceive": "wip",
+            "voiceSend": "yes",
+            "voiceStateUpdate": "yes"
         }
     },
     "name": "DiscordPHP",
