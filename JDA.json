@@ -30,7 +30,7 @@
             "serverInfo": "yes",
             "serverKick": "yes",
             "serverUnban": "yes",
-            "voiceMove": "WIP"
+            "voiceMove": "yes"
         },
         "ws": {
             "channelCreate": "yes",
@@ -53,12 +53,12 @@
             "userJoin": "yes",
             "userLeave": "yes",
             "voiceReceive": "no",
-            "voiceSend": "WIP",
+            "voiceSend": "yes",
             "voiceStateUpdate": "yes"
         }
     },
     "name": "JDA",
     "language": "Java",
     "github": "DV8FromTheWorld/JDA/",
-    "description": "A Java library for Discord."
+    "description": "A Java wrapper for the Discord REST and Websocket API."
 }
