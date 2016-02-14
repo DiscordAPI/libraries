@@ -16,7 +16,7 @@
             "messageDelete": "yes",
             "messageEdit": "yes",
             "messageSend": "yes",
-            "messageSendFile": "WIP",
+            "messageSendFile": "yes",
             "roleCreate": "yes",
             "roleDelete": "yes",
             "roleEdit": "yes",
