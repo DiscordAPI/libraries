@@ -1,10 +1,10 @@
 {
     "features": {
         "rest": {
-            "channelCreate": "no",
+            "channelCreate": "yes",
             "channelDelete": "yes",
             "channelDM": "yes",
-            "channelEdit": "no",
+            "channelEdit": "yes",
             "channelHistory": "yes",
             "channelInfo": "yes",
             "channelPermission": "yes",
@@ -18,7 +18,7 @@
             "messageSend": "yes",
             "messageSendFile": "yes",
             "roleCreate": "no",
-            "roleDelete": "no",
+            "roleDelete": "yes",
             "roleEdit": "yes",
             "roleInfo": "yes",
             "sendTyping": "yes",
