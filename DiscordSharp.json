@@ -23,7 +23,7 @@
             "roleInfo": "yes",
             "sendTyping": "yes",
             "serverBan": "yes",
-            "serverBans": "no",
+            "serverBans": "yes",
             "serverCreate": "yes",
             "serverDelete": "yes",
             "serverEdit": "yes",
@@ -53,7 +53,7 @@
             "userJoin": "yes",
             "userLeave": "yes",
             "voiceReceive": "no",
-            "voiceSend": "no",
+            "voiceSend": "yes",
             "voiceStateUpdate": "yes"
         }
     },
