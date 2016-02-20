@@ -54,7 +54,7 @@
             "userLeave": "yes",
             "voiceReceive": "yes",
             "voiceSend": "yes",
-            "voiceStateUpdate": "no"
+            "voiceStateUpdate": "yes"
         }
     },
     "name": "discordie",
