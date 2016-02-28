@@ -30,7 +30,7 @@
             "serverInfo": "yes",
             "serverKick": "no",
             "serverUnban": "no",
-            "voiceMove": "no"
+            "voiceMove": "yes"
         },
         "ws": {
             "channelCreate": "yes",
