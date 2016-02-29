@@ -53,12 +53,12 @@
             "userJoin": "yes",
             "userLeave": "yes",
             "voiceReceive": "no",
-            "voiceSend": "no",
-            "voiceStateUpdate": "no"
+            "voiceSend": "yes",
+            "voiceStateUpdate": "yes"
         }
     },
     "name": "Discord4J",
     "language": "Java",
     "github": "austinv11/Discord4J",
-    "description": "A Java library for Discord."
+    "description": "A Java binding for the unofficial Discord API."
 }
