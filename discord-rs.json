@@ -22,14 +22,14 @@
             "roleEdit": "no",
             "roleInfo": "yes",
             "sendTyping": "yes",
-            "serverBan": "no",
-            "serverBans": "no",
+            "serverBan": "yes",
+            "serverBans": "yes",
             "serverCreate": "yes",
             "serverDelete": "yes",
             "serverEdit": "yes",
             "serverInfo": "yes",
             "serverKick": "no",
-            "serverUnban": "no",
+            "serverUnban": "yes",
             "voiceMove": "yes"
         },
         "ws": {
