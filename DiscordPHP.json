@@ -52,7 +52,7 @@
             "typing": "yes",
             "userJoin": "yes",
             "userLeave": "yes",
-            "voiceReceive": "WIP",
+            "voiceReceive": "Opus",
             "voiceSend": "yes",
             "voiceStateUpdate": "yes"
         }
