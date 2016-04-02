@@ -30,6 +30,7 @@
             "serverInfo": "yes",
             "serverKick": "yes",
             "serverUnban": "yes",
+            "transferOwnership": "",
             "voiceMove": "yes"
         },
         "ws": {
@@ -52,6 +53,7 @@
             "typing": "no",
             "userJoin": "no",
             "userLeave": "no",
+            "voiceMultiServer": "",
             "voiceReceive": "yes",
             "voiceSend": "yes",
             "voiceStateUpdate": "no"
