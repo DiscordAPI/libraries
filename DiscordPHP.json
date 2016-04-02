@@ -56,7 +56,7 @@
             "voiceMultiServer": "yes",
             "voiceReceive": "yes",
             "voiceSend": "yes",
-            "voiceStateUpdate": "yes"
+            "voiceStateUpdate": "no"
         }
     },
     "name": "DiscordPHP",
