@@ -30,7 +30,7 @@
             "serverInfo": "yes",
             "serverKick": "yes",
             "serverUnban": "yes",
-            "transferOwnership": "",
+            "transferOwnership": "yes",
             "voiceMove": "yes"
         },
         "ws": {
