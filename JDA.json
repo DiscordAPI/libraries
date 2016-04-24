@@ -53,7 +53,7 @@
             "typing": "yes",
             "userJoin": "yes",
             "userLeave": "yes",
-            "voiceMultiServer": "no",
+            "voiceMultiServer": "yes",
             "voiceReceive": "no",
             "voiceSend": "yes",
             "voiceStateUpdate": "yes"
