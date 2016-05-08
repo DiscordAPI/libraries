@@ -3,9 +3,9 @@
         "rest": {
             "channelCreate": "yes",
             "channelDelete": "yes",
-            "channelDM": "partial",
+            "channelDM": "yes",
             "channelEdit": "yes",
-            "channelHistory": "partial",
+            "channelHistory": "yes",
             "channelInfo": "yes",
             "channelPermission": "partial",
             "editProfile": "yes",
@@ -18,8 +18,8 @@
             "messageSend": "yes",
             "messageSendFile": "no",
             "roleCreate": "no",
-            "roleDelete": "no",
-            "roleEdit": "no",
+            "roleDelete": "yes",
+            "roleEdit": "partial",
             "roleInfo": "yes",
             "sendTyping": "yes",
             "serverBan": "yes",
@@ -30,7 +30,7 @@
             "serverInfo": "yes",
             "serverKick": "yes",
             "serverUnban": "yes",
-            "transferOwnership": "no",
+            "transferOwnership": "yes",
             "voiceMove": "no"
         },
         "ws": {
