@@ -56,7 +56,7 @@
             "voiceMultiServer": "no",
             "voiceReceive": "no",
             "voiceSend": "no",
-            "voiceStateUpdate": "no"
+            "voiceStateUpdate": "yes"
         }
     },
     "name": "Discordia",
