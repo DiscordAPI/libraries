@@ -57,6 +57,18 @@
             "voiceReceive": "no",
             "voiceSend": "yes",
             "voiceStateUpdate": "yes"
+        },
+        "misc": {
+            "supportsUserLogin": "yes",
+            "supportsBotLogin": "yes",
+            "cachesTokens": "yes",
+            "apiDocs": "inline",
+            "tutorials": "yes",
+            "examples": "yes",
+            "eventsAsync": "threaded",
+            "apiCallsAsync": "no",
+            "commandExtension": "yes",
+            "starsBadge": "https://img.shields.io/github/stars/meew0/discordrb.svg?style=flat-square&maxAge=2592000"
         }
     },
     "name": "discordrb",
