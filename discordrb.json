@@ -59,16 +59,26 @@
             "voiceStateUpdate": "yes"
         },
         "misc": {
-            "supportsUserLogin": "yes",
-            "supportsBotLogin": "yes",
+            "userLoginWithPassword": "yes",
+            "userLoginWithToken": "yes",
+            "botLogin": "yes",
             "cachesTokens": "yes",
-            "apiDocs": "inline",
+            "apiDocs": "automatic",
+            "apiDocsUrl": "http://www.rubydoc.info/gems/discordrb",
             "tutorials": "yes",
+            "tutorialsUrl": "https://github.com/meew0/discordrb/wiki",
             "examples": "yes",
+            "examplesUrl": "https://github.com/meew0/discordrb/tree/master/examples",
             "eventsAsync": "threaded",
-            "apiCallsAsync": "no",
+            "apiCallsAsync": "thread-safe",
             "commandExtension": "yes",
-            "starsBadge": "https://img.shields.io/github/stars/meew0/discordrb.svg?style=flat-square&maxAge=2592000"
+            "badges": [
+              "https://img.shields.io/github/stars/meew0/discordrb.svg?style=flat-square&maxAge=2592000",
+              "https://img.shields.io/gem/v/discordrb.svg",
+              "https://img.shields.io/gem/dt/discordrb.svg",
+              "https://travis-ci.org/meew0/discordrb.svg?branch=master",
+              "http://inch-ci.org/github/meew0/discordrb.svg?branch=master&style=shields"
+            ]
         }
     },
     "name": "discordrb",
