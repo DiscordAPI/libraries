@@ -57,6 +57,23 @@
             "voiceReceive": "no",
             "voiceSend": "no",
             "voiceStateUpdate": "no"
+        },
+        "misc": {
+            "userLoginWithPassword": "",
+            "userLoginWithToken": "",
+            "botLogin": "",
+            "cachesTokens": "",
+            "apiDocs": "",
+            "apiDocsUrl": "",
+            "tutorials": "",
+            "tutorialsUrl": "",
+            "examples": "",
+            "examplesUrl": "",
+            "eventsAsync": "",
+            "apiCallsAsync": "",
+            "commandExtension": "",
+            "badges": [
+            ]
         }
     },
     "name": "DiscordUnity",
