@@ -40,7 +40,7 @@
             "channelUpdate": "yes",
             "memberChunk": "yes",
             "messageDelete": "yes",
-            "messageDeleteBulk": "no",
+            "messageDeleteBulk": "yes",
             "messageReceive": "yes",
             "messageUpdate": "yes",
             "presenceReceive": "yes",
