@@ -63,19 +63,19 @@
             "voiceStateUpdate": "yes"
         },
         "misc": {
-            "userLoginWithPassword": "",
-            "userLoginWithToken": "",
-            "botLogin": "",
-            "cachesTokens": "",
-            "apiDocs": "",
-            "apiDocsUrl": "",
-            "tutorials": "",
+            "userLoginWithPassword": "yes",
+            "userLoginWithToken": "yes",
+            "botLogin": "yes",
+            "cachesTokens": "yes",
+            "apiDocs": "yes",
+            "apiDocsUrl": "http://discordpy.readthedocs.io/en/latest/",
+            "tutorials": "no",
             "tutorialsUrl": "",
-            "examples": "",
+            "examples": "yes",
             "examplesUrl": "",
-            "eventsAsync": "",
-            "apiCallsAsync": "",
-            "commandExtension": "",
+            "eventsAsync": "async",
+            "apiCallsAsync": "async",
+            "commandExtension": "yes",
             "badges": [
             ]
         }
