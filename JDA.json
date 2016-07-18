@@ -58,14 +58,14 @@
             "userJoin": "yes",
             "userLeave": "yes",
             "voiceMultiServer": "yes",
-            "voiceReceive": "no",
+            "voiceReceive": "yes",
             "voiceSend": "yes",
             "voiceStateUpdate": "yes"
         },
         "misc": {
-            "userLoginWithPassword": "",
-            "userLoginWithToken": "",
-            "botLogin": "",
+            "userLoginWithPassword": "JDA-Client",
+            "userLoginWithToken": "JDA-Client",
+            "botLogin": "yes",
             "cachesTokens": "",
             "apiDocs": "",
             "apiDocsUrl": "",
