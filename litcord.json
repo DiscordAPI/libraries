@@ -63,19 +63,19 @@
             "voiceStateUpdate": "yes"
         },
         "misc": {
-            "userLoginWithPassword": "",
-            "userLoginWithToken": "",
-            "botLogin": "",
-            "cachesTokens": "",
-            "apiDocs": "",
-            "apiDocsUrl": "",
-            "tutorials": "",
+            "userLoginWithPassword": "yes",
+            "userLoginWithToken": "yes",
+            "botLogin": "yes",
+            "cachesTokens": "no",
+            "apiDocs": "outdated",
+            "apiDocsUrl": "https://github.com/satom99/litcord/wiki",
+            "tutorials": "no",
             "tutorialsUrl": "",
-            "examples": "",
-            "examplesUrl": "",
-            "eventsAsync": "",
-            "apiCallsAsync": "",
-            "commandExtension": "",
+            "examples": "yes",
+            "examplesUrl": "https://github.com/satom99/litcord/tree/master/examples",
+            "eventsAsync": "yes",
+            "apiCallsAsync": "yes",
+            "commandExtension": "no",
             "badges": [
             ]
         }
