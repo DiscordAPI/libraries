@@ -45,7 +45,7 @@
             "messageUpdate": "yes",
             "presenceReceive": "yes",
             "presenceSend": "yes",
-            "resume": "no",
+            "resume": "yes",
             "roleCreate": "yes",
             "roleDelete": "yes",
             "roleUpdate": "yes",
@@ -58,7 +58,7 @@
             "userJoin": "yes",
             "userLeave": "yes",
             "voiceMultiServer": "yes",
-            "voiceReceive": "no",
+            "voiceReceive": "yes",
             "voiceSend": "yes",
             "voiceStateUpdate": "yes"
         },
