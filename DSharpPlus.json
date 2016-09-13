@@ -80,8 +80,8 @@
             ]
         }
     },
-    "name": "DiscordSharp",
+    "name": "DSharpPlus",
     "language": "C#",
-    "github": "Luigifan/DiscordSharp",
-    "description": "An alternative .Net library for Discord written in C#."
+    "github": "NaamloosDT/DSharpPlus",
+    "description": "A C# API for Discord based off DiscordSharp :3"
 }
