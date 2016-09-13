@@ -11,7 +11,7 @@
             "editProfile": "yes",
             "inviteCreate": "yes",
             "inviteDelete": "yes",
-            "inviteInfo": "no",
+            "inviteInfo": "yes",
             "inviteJoin": "yes",
             "messageBulkDelete": "",
             "messageDelete": "yes",
@@ -31,7 +31,7 @@
             "serverInfo": "yes",
             "serverKick": "yes",
             "serverUnban": "yes",
-            "transferOwnership": "",
+            "transferOwnership": "yes",
             "voiceMove": "yes"
         },
         "ws": {
@@ -58,7 +58,7 @@
             "userJoin": "yes",
             "userLeave": "yes",
             "voiceMultiServer": "",
-            "voiceReceive": "no",
+            "voiceReceive": "yes",
             "voiceSend": "yes",
             "voiceStateUpdate": "yes"
         },
