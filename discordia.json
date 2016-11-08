@@ -18,7 +18,7 @@
             "messageEdit": "yes",
             "messageSend": "yes",
             "messageSendFile": "no",
-            "roleCreate": "no",
+            "roleCreate": "yes",
             "roleDelete": "yes",
             "roleEdit": "yes",
             "roleInfo": "yes",
@@ -32,7 +32,7 @@
             "serverKick": "yes",
             "serverUnban": "yes",
             "transferOwnership": "yes",
-            "voiceMove": "no"
+            "voiceMove": "yes"
         },
         "ws": {
             "channelCreate": "yes",
@@ -40,7 +40,7 @@
             "channelUpdate": "yes",
             "memberChunk": "yes",
             "messageDelete": "yes",
-            "messageDeleteBulk": "no",
+            "messageDeleteBulk": "yes",
             "messageReceive": "yes",
             "messageUpdate": "yes",
             "presenceReceive": "yes",
@@ -67,10 +67,10 @@
             "userLoginWithToken": "yes",
             "botLogin": "yes",
             "cachesTokens": "yes",
-            "apiDocs": "incomplete",
-            "apiDocsUrl": "https://github.com/SinisterRectus/Discordia/wiki#documentation",
-            "tutorials": "incomplete",
-            "tutorialsUrl": "https://github.com/SinisterRectus/Discordia/wiki#tutorials",
+            "apiDocs": "yes",
+            "apiDocsUrl": "https://github.com/SinisterRectus/Discordia/wiki",
+            "tutorials": "yes",
+            "tutorialsUrl": "https://github.com/SinisterRectus/Discordia/wiki",
             "examples": "yes",
             "examplesUrl": "https://github.com/SinisterRectus/Discordia/tree/master/examples",
             "eventsAsync": "yes",
@@ -83,5 +83,5 @@
     "name": "Discordia",
     "language": "Lua",
     "github": "SinisterRectus/Discordia",
-    "description": "Discord API library written in Lua for the Luvit framework"
+    "description": "Discord API library written in Lua for the Luvit environment"
 }
