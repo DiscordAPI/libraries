@@ -80,8 +80,8 @@
             ]
         }
     },
-    "name": "Discord Dart",
+    "name": "nyx",
     "language": "Dart",
-    "github": "hackzzila/Discord-Dart",
+    "github": "hackzzila/nyx",
     "description": "A Dart library for Discord."
 }
