@@ -25,7 +25,7 @@
       "sendTyping": "yes",
       "serverBan": "yes",
       "serverBans": "yes",
-      "serverCreate": "no",
+      "serverCreate": "yes",
       "serverDelete": "yes",
       "serverEdit": "yes",
       "serverInfo": "yes",
