@@ -63,25 +63,29 @@
             "voiceStateUpdate": "yes"
         },
         "misc": {
-            "userLoginWithPassword": "",
-            "userLoginWithToken": "",
-            "botLogin": "",
-            "cachesTokens": "",
-            "apiDocs": "",
-            "apiDocsUrl": "",
-            "tutorials": "",
+            "userLoginWithPassword": "no",
+            "userLoginWithToken": "yes",
+            "botLogin": "yes",
+            "cachesTokens": "no",
+            "apiDocs": "yes",
+            "apiDocsUrl": "https://discord.js.org/#!/docs/",
+            "tutorials": "no",
             "tutorialsUrl": "",
-            "examples": "",
-            "examplesUrl": "",
-            "eventsAsync": "",
-            "apiCallsAsync": "",
-            "commandExtension": "",
+            "examples": "yes",
+            "examplesUrl": "https://github.com/hydrabolt/discord.js/tree/master/docs/examples",
+            "eventsAsync": "async",
+            "apiCallsAsync": "async",
+            "commandExtension": "yes",
             "badges": [
+                "https://img.shields.io/npm/v/discord.js.svg?maxAge=3600",
+                "https://img.shields.io/npm/dt/discord.js.svg?maxAge=3600",
+                "https://travis-ci.org/hydrabolt/discord.js.svg",
+                "https://img.shields.io/david/hydrabolt/discord.js.svg?maxAge=3600" 
             ]
         }
     },
-    "name": "discord.js",
-    "language": "Javascript",
+    "name": "Discord.js",
+    "language": "JavaScript",
     "github": "hydrabolt/discord.js",
-    "description": "A Javascript library for Discord."
+    "description": "A JavaScript library for Discord."
 }
