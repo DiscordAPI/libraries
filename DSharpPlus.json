@@ -57,10 +57,10 @@
             "typing": "yes",
             "userJoin": "yes",
             "userLeave": "yes",
-            "voiceMultiServer": "",
-            "voiceReceive": "",
-            "voiceSend": "",
-            "voiceStateUpdate": ""
+            "voiceMultiServer": "yes",
+            "voiceReceive": "2.x",
+            "voiceSend": "yes",
+            "voiceStateUpdate": "yes"
         },
         "misc": {
             "userLoginWithPassword": "no",
