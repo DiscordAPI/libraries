@@ -77,7 +77,8 @@
             "apiCallsAsync": "",
             "commandExtension": "",
             "badges": [
-                
+                "https://img.shields.io/pypi/v/restcord.svg",
+                "https://img.shields.io/pypi/pyversions/restcord.svg"
             ]
         }
     },
