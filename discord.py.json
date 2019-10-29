@@ -63,7 +63,7 @@
             "voiceStateUpdate": "yes"
         },
         "misc": {
-            "userLoginWithPassword": "yes",
+            "userLoginWithPassword": "no",
             "userLoginWithToken": "yes",
             "botLogin": "yes",
             "cachesTokens": "yes",
