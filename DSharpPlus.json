@@ -40,7 +40,7 @@
             "channelUpdate": "yes",
             "memberChunk": "",
             "messageDelete": "yes",
-            "messageDeleteBulk": "",
+            "messageDeleteBulk": "yes",
             "messageReceive": "yes",
             "messageUpdate": "yes",
             "presenceReceive": "yes",
@@ -58,30 +58,34 @@
             "userJoin": "yes",
             "userLeave": "yes",
             "voiceMultiServer": "yes",
-            "voiceReceive": "2.x",
+            "voiceReceive": "yes",
             "voiceSend": "yes",
             "voiceStateUpdate": "yes"
         },
         "misc": {
             "userLoginWithPassword": "no",
-            "userLoginWithToken": "yes",
+            "userLoginWithToken": "no",
             "botLogin": "yes",
             "cachesTokens": "no",
-            "apiDocs": "",
-            "apiDocsUrl": "",
-            "tutorials": "",
-            "tutorialsUrl": "",
-            "examples": "",
-            "examplesUrl": "",
-            "eventsAsync": "",
-            "apiCallsAsync": "",
-            "commandExtension": "",
+            "apiDocs": "yes",
+            "apiDocsUrl": "https://dsharpplus.github.io/",
+            "tutorials": "yes",
+            "tutorialsUrl": "https://dsharpplus.github.io/articles/intro.html",
+            "examples": "yes",
+            "examplesUrl": "https://github.com/DSharpPlus/Example-Bots",
+            "eventsAsync": "yes",
+            "apiCallsAsync": "yes",
+            "commandExtension": "yes",
             "badges": [
+                "https://img.shields.io/appveyor/ci/Emzi0767/dsharpplus/master.svg",
+                "https://img.shields.io/badge/dynamic/json.svg?color=yellow&label=slimget&query=%24.items%5B-1%3A%5D.upper&url=https%3A%2F%2Fnuget.emzi0767.com%2Fapi%2Fv3%2Fregistration%2FPlain%2Fdsharpplus%2Findex.json",
+                "https://img.shields.io/nuget/vpre/DSharpPlus.svg",
+                
             ]
         }
     },
     "name": "DSharpPlus",
     "language": "C#",
-    "github": "NaamloosDT/DSharpPlus",
-    "description": "A C# API for Discord based off DiscordSharp, but rewritten to fit the API standards"
+    "github": "DSharpPlus/DSharpPlus",
+    "description": "An unofficial .NET wrapper for the Discord API, based off DiscordSharp, but rewritten to fit the API standards."
 }
