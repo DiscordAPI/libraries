@@ -70,23 +70,23 @@
             "apiDocs": "automatic",
             "apiDocsUrl": "http://www.rubydoc.info/gems/discordrb",
             "tutorials": "yes",
-            "tutorialsUrl": "https://github.com/meew0/discordrb/wiki",
+            "tutorialsUrl": "https://github.com/shardlab/discordrb/wiki",
             "examples": "yes",
-            "examplesUrl": "https://github.com/meew0/discordrb/tree/master/examples",
+            "examplesUrl": "https://github.com/shardlab/discordrb/tree/main/examples",
             "eventsAsync": "threaded",
             "apiCallsAsync": "thread-safe",
             "commandExtension": "yes",
             "badges": [
-              "https://img.shields.io/github/stars/meew0/discordrb.svg?style=flat-square&maxAge=2592000",
-              "https://img.shields.io/gem/v/discordrb.svg",
-              "https://img.shields.io/gem/dt/discordrb.svg",
-              "https://travis-ci.org/meew0/discordrb.svg?branch=master",
-              "http://inch-ci.org/github/meew0/discordrb.svg?branch=master&style=shields"
+                "https://img.shields.io/github/stars/shardlab/discordrb.svg?style=flat-square&maxAge=2592000",
+                "https://img.shields.io/gem/v/discordrb.svg",
+                "https://img.shields.io/gem/dt/discordrb.svg",
+                "https://circleci.com/gh/shardlab/discordrb.svg?style=svg",
+                "http://inch-ci.org/github/shardlab/discordrb.svg?branch=main&style=shields"
             ]
         }
     },
     "name": "discordrb",
     "language": "Ruby",
-    "github": "meew0/discordrb",
+    "github": "shardlab/discordrb",
     "description": "A Ruby library for Discord."
 }
